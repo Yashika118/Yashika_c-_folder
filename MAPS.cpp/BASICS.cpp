@@ -6,6 +6,9 @@
 // 2. ordered map(store in order)
 //   --> tress
 
+// ORDERED MAP --> N LOG M (N IS LENGTH OF ARRAY , M IS SIZE OF MAP)
+// UNORDERED MAP --> BEST CASE ( O(N) ) ,  WORST CASE( O(N^2) )
+
 #include <bits/stdc++.h>
 using namespace std;
 

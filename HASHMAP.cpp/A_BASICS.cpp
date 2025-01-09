@@ -11,3 +11,4 @@
 //          apple-->120 Rs.
 // hash function is used to convert string into integer
 // a hash function is good if no. of collisions are less
+
